@@ -23,10 +23,10 @@ let updateTimer;
 const music_list = [
    
     {
-        img : '.././images/daraja.jpg',
+        img : './images/daraja.jpg',
         name : 'Faded',
         artist : 'Alan Walker',
-        music : '../music/Faded.mp3'
+        music : '/music/Faded.mp3'
     }
 ];
 
