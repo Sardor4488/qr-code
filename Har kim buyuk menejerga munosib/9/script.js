@@ -24,9 +24,9 @@ const music_list = [
    
     {
         img : './../7.jpg',
-        name : '1-qism',
+        name : '9-qism (110-120)',
         artist : 'Har kim buyuk menejerga munosib',
-        music : './1-qism.mp3'
+        music : "./9-qism (110-120-betlar).mp3"
     }
 ];
 
