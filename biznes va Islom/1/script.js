@@ -25,7 +25,7 @@ const music_list = [
     {
         img : './../daraja_logo.jpg',
         name : '1-qism',
-        artist : ' ',
+        artist : 'Biznes va islom',
         music : './1-qism.mp3'
     }
 ];
